@@ -18,7 +18,6 @@ package software.ulpgc.images.architecture.model;
  * @param width  the width of the viewport
  * @param height the height of the viewport
  *
- * @author      José Juan
  * @version     1.0, 02/01/2025
  * @since       1.0
  */
